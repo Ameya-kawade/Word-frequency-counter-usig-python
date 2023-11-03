@@ -33,4 +33,4 @@ def wordFrequencyCounter(inputFilePath,outputFilePath):
         print("File not found, please give a valid file path.")            
 
 
-wordFrequencyCounter('./file2.txt','./output.txt')
+wordFrequencyCounter(input_file_path , output_file_path)
